@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1558485514,
+	"version": 1558550426,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -12,6 +12,7 @@
 		"images/setacima-sheet0.png",
 		"images/setacima-sheet1.png",
 		"images/sprite-sheet0.png",
+		"images/dbspqcw100388da5aac45ec87988e1bdfacdb6c-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
